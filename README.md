@@ -9,6 +9,5 @@ This streamlit weather innformation app fetches real-time weather information fo
 
 >streamlit run app.py
 
-![Image Alt text](/weather-app.jpg
 
-![Image Alt text](/weather-app "Weather App"))
+![Image Alt Text](https://github.com/BidishaAdhikari/Weather-App/blob/main/weather-app.png)
