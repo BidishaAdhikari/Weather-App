@@ -1,0 +1,3 @@
+bs4==0.01
+streamlit==1.25.0
+requests
